@@ -3,8 +3,9 @@
 
 ---
 ###  要求
-平面顶点必须是简单多边形
+平面顶点必须是凹凸多边行上的点
 ###  快速创建模型
+参数建模
 class ParameterModeling.ParameterModeling
 ### 自定义创建模型
 阅读BaseMeshCreator.cs文件
